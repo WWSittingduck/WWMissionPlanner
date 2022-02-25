@@ -1,0 +1,12 @@
+.DS_Store
+app/vendor/bower_components/
+node_modules/
+clipboard.js
+dist/
+!app/img/dist/
+npm-debug.log*
+coverage/
+sandbox/
+secrets/
+lambda/requests/
+.idea/

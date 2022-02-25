@@ -1,0 +1,28 @@
+{
+    "esversion": 6,
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "funcscope": true,
+    "shadow": true,
+    "undef": true,
+    "multistr": true,
+    "globals": {
+        "L": true,
+        "console": true,
+        "clickFn": true,
+        "iconClass": true,
+        "document": true,
+        "content": true,
+        "iconId": true,
+        "tooltipText": true,
+        "require": true,
+        "module": true,
+        "window": true,
+        "XMLHttpRequest": true,
+        "CustomEvent": true,
+        "Option": true,
+        "Validatinator": true,
+        "process": true
+    }
+}
